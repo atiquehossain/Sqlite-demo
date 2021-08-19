@@ -1,7 +1,6 @@
 package com.example.sqlitedemo;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
